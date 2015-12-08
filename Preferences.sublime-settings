@@ -1,3 +1,5 @@
 {
-    "typescript_auto_format": true
+    "typescript_auto_format": true,
+    "tab_size": 2,
+    "indent_size": 2
 }
